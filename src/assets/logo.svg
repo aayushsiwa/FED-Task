@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200">
+    <text x="100" y="100" font-size="60" text-anchor="middle" dominant-baseline="middle" font-family="Courier New" fill="white">AS</text>
+    <rect x="30" y="40" width="150" height="100" stroke="blue" stroke-width="4" fill="none" transform="rotate(0 30 40)" class="rect"/>
+    <rect x="30" y="40" width="150" height="100" stroke="blue" stroke-width="4" fill="none" transform="rotate(15 30 40)" />
+    <rect x="30" y="40" width="150" height="100" stroke="blue" stroke-width="4" fill="none" transform="rotate(-15 30 40)" />
+    <circle cx="30" cy="40" r="2" stroke-width="4" stroke="white" fill="white" />
+    <rect x="180" y="140" width="150" height="100" stroke="blue" stroke-width="4" fill="none" transform="rotate(170 180 140)" />
+    <rect x="180" y="140" width="150" height="100" stroke="blue" stroke-width="4" fill="none" transform="rotate(190 180 140)" />
+    <rect x="180" y="140" width="150" height="100" stroke="blue" stroke-width="4" fill="none"  transform="rotate(160 180 140)"/>
+    <circle cx="180" cy="140" r="2" stroke-width="4" stroke="white" fill="white" />
+</svg>

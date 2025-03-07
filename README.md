@@ -28,3 +28,19 @@ Upload your completed task to GitHub
 Share the GitHub link for your submission and add a readme file containing the steps to run the project. Also attach screenshots or a video of working of the final project. (Important)
 This task serves as a crucial step in the evaluation process, so ensure your submission is comprehensive and aligns with the specified requirements. Kindly refrain from engaging in plagiarism. While deriving inspiration is permissible, direct copying and pasting of code from external sources is strictly prohibited.
 
+es is strictly prohibited.
+
+es is strictly prohibited.
+
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+es is strictly prohibited.
+
+es is strictly prohibited.
+
